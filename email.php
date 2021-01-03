@@ -1,5 +1,6 @@
 <?php
 
-	echo "Email is sending";	
+	echo "Email is sending";
+	echo "Sending Anoter Email;
 
 ?>

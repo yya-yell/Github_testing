@@ -6,5 +6,7 @@
 	echo "Third line from Github";
 
 	echo "Fourth line from Github";
+	
+	echo "Fourth Line from Cli";
 
 ?>
